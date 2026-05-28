@@ -33,7 +33,7 @@
                     </p>
                     <div class="btn-group">
                         <a href="#articles" class="btn btn-primary"><i class="fas fa-newspaper"></i> Read Articles</a>
-                        <a href="#" class="btn btn-outline" id="downloadCvBtn"><i class="fas fa-file-pdf"></i> Download CV</a>
+                        <a href="curriculum.pdf" class="btn btn-outline" download><i class="fas fa-file-pdf"></i> Download CV</a>
                     </div>
                 </div>
                 <div class="hero-image-wrapper">
@@ -176,13 +176,7 @@
 </div> -->
 
 <script>
-    const downloadBtn = document.getElementById('downloadCvBtn');
-    if(downloadBtn) {
-        downloadBtn.addEventListener('click', (e) => {
-            e.preventDefault();
-            alert('📄 CV download demo — replace this link with actual resume PDF.');
-        });
-    }
+    // CV download is handled by the direct link to curriculum.pdf
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             const targetId = this.getAttribute('href');
