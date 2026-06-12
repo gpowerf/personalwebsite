@@ -6,7 +6,7 @@ Nottinghamshire, UK | guillermopower@protonmail.me | 07739 733 529 | [LinkedIn](
 
 ## **Summary**
 
-**A pragmatic and visionary Technology Leader with a PhD in Computer Science, dedicated to aligning technical execution with business strategy. With 20 years of experience, I have successfully navigated the full business life-cycle, from founding teams to leading enterprise divisions at Oracle. My technical strength lies in high-level architecture and strategic awareness of cloud ecosystems and emerging AI capabilities, enabling me to guide teams effectively. I combine this technical foundation with a strong, pragmatic focus on the responsible adoption of AI. I am keenly interested in moving beyond the hype to identify concrete, low-risk applications of AI that solve real business problems, while proactively addressing the critical questions of AI safety, ethics, and governance that are essential for enterprise deployment. I excel at removing organisational blockers, mentoring engineers into leaders, and driving the adoption of AI to solve real-world enterprise challenges, all while cultivating an inclusive and collaborative culture.**
+**Pragmatic technology leader with a PhD in Computer Science and 20 years of experience across the full business lifecycle — from founding teams to leading teams at Oracle. Navigated three acquisitions (Media Ingenuity, Conject, Aconex → Oracle) with industry-defying team retention through each transition. Post-M&A compliance lead. Combines deep technical architecture with a pragmatic focus on responsible AI adoption — moving beyond hype to identify concrete, low-risk applications that solve real business problems while addressing AI safety, ethics, and governance. Removes organisational blockers, mentors engineers into leaders, and drives AI adoption to solve real-world enterprise challenges.**
 
 ---
 
@@ -40,7 +40,7 @@ Nottinghamshire, UK | guillermopower@protonmail.me | 07739 733 529 | [LinkedIn](
 
 #### **CTO**
 
-**Media Ingenuity Ltd / LeadMarket Ltd** | London, UK | 2007–2011
+**Media Ingenuity Ltd / LeadMarket Ltd** (acquired) | London, UK | 2007–2011
 
 - Transformed software development processes by introducing **Agile methodologies, CI/CD pipelines, and server virtualisation**, significantly improving team efficiency.
 - Led a team of 9 developers and testers, driving the development of high-traffic consumer websites and securing **£17.5M in funding** through robust technical leadership.
