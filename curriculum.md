@@ -6,7 +6,7 @@ Nottinghamshire, UK | guillermopower@protonmail.me | 07739 733 529 | [LinkedIn](
 
 ## **Summary**
 
-**Pragmatic technology leader with a PhD in Computer Science and 20 years of experience across the full business lifecycle — from founding teams to leading teams at Oracle. Navigated three acquisitions (Media Ingenuity, Conject, Aconex → Oracle) with industry-defying team retention through each transition. Post-M&A compliance lead. Combines deep technical architecture with a pragmatic focus on responsible AI adoption — moving beyond hype to identify concrete, low-risk applications that solve real business problems while addressing AI safety, ethics, and governance. Removes organisational blockers, mentors engineers into leaders, and drives AI adoption to solve real-world enterprise challenges.**
+**Pragmatic technology leader with a PhD in Computer Science and 20 years of experience across the full business lifecycle — from founding teams to leading teams at Aconex (acquired by Oracle). Navigated three acquisitions (Media Ingenuity, Conject, Aconex → Oracle) with industry-defying team retention through each transition. Post-M&A compliance lead. Combines deep technical architecture with a pragmatic focus on responsible AI adoption — moving beyond hype to identify concrete, low-risk applications that solve real business problems while addressing AI safety, ethics, and governance. Removes organisational blockers, mentors engineers into leaders, and drives AI adoption to solve real-world enterprise challenges.**
 
 ---
 
@@ -71,7 +71,7 @@ Nottinghamshire, UK | guillermopower@protonmail.me | 07739 733 529 | [LinkedIn](
 - **Cloud & Infrastructure:** Oracle Cloud Infrastructure (OCI), Kubernetes, AWS (EC2), VMWare
 - **Methodologies:** Agile, ITIL, Continuous Integration, Test-Driven Development (TDD)
 - **AI & Automation:** Familiarity with AI tools for productivity, code review, and process automation
-- **Core Proficiencies:** C#, Java, JavaScript, SQL; AI‑augmented development (BMAD, OpenSpec, agentic coding)
+- **Core Proficiencies:** AI‑augmented development (BMAD, OpenSpec, agentic coding); technical background in C#, Java, JavaScript, SQL
 
 ---
 
