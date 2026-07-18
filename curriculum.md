@@ -1,6 +1,6 @@
 # **Guillermo Power, PhD, BSc**
 
-Nottinghamshire, UK | guillermopower@protonmail.me | 07739 733 529 | [LinkedIn](https://www.linkedin.com/in/guillermo-power-19b17a31/)
+Nottinghamshire, UK | guillermo.power@proton.me | 07739 733 529 | [LinkedIn](https://www.linkedin.com/in/guillermo-power-19b17a31/)
 
 ---
 
